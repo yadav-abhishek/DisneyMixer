@@ -2,7 +2,7 @@
 //  MixerAppDelegate.m
 //  DisneyMixer
 //
-//  Created by Tripathi, Abhinav on 7/31/14.
+//  Created by Yadav, Abhishek on 7/31/14.
 //  Copyright (c) 2014 Disney. All rights reserved.
 //
 
